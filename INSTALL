@@ -1,0 +1,9 @@
+Building Jermabux
+
+See doc/readme-qt.rst for instructions on building Jermabux-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Jermabux.
+
+See doc/build-*.txt for instructions on building jermabuxd,
+the intended-for-services, no-graphical-interface, reference
+implementation of Jermabux.

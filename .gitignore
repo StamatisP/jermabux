@@ -1,0 +1,34 @@
+src/*.exe
+src/jermabux
+src/jermabuxd
+src/test_jermabux
+.*.swp
+*.*~*
+*.bak
+*.rej
+*.orig
+*.o
+*.patch
+.jermabux
+
+# Compilation and Qt preprocessor part
+*.qm
+Makefile
+jermabux-qt
+Jermabux-Qt.app
+
+# Unit-tests
+Makefile.test
+jermabux-qt_test
+
+# Resources cpp
+qrc_*.cpp
+
+# Qt creator
+*.pro.user
+
+# Mac specific
+.DS_Store
+build
+
+!src/leveldb*/Makefile
