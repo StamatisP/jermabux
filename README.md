@@ -9,10 +9,11 @@ What is Jermabux?
 ----------------
 
 Jermabux is a fork of Litecoin.
- - 2.5 minute block targets
+ - 2 minute block targets
  - subsidy halves in 30k blocks (~3 months)
  - ~100 million total coins
  - 1700 coins per block
+ - Retargets every hour.
 
 License
 -------
