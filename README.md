@@ -14,6 +14,9 @@ Jermabux is a fork of Litecoin.
  - ~100 million total coins
  - 1700 coins per block
  - Retargets every hour.
+ 
+ http://138.197.10.31:3002/ is the link to the block explorer.
+ http://138.197.10.31:8080/ is the link to the mining pool.
 
 License
 -------
