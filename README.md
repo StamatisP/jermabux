@@ -16,7 +16,10 @@ Jermabux is a fork of Litecoin.
  - Retargets every hour.
  
  http://138.197.10.31:3002/ is the link to the block explorer.
+ 
  http://138.197.10.31:8080/ is the link to the mining pool.
+ 
+ https://github.com/Kevin43/jermabux/wiki/How-to-Mine if you want to mine, check this out.
 
 License
 -------
